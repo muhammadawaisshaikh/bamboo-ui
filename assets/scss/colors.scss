@@ -1,0 +1,16 @@
+// static general colors
+$color-black : #1e1f22;
+$colo-gray : #f3f3f3;
+$color-white : #ffffff;
+
+//  main image after header overlay gradients
+$blue-gradient-header: linear-gradient(-225deg, #9BFAFC 0%, #175CAE 100%);
+$melon-gradient-header: linear-gradient(-45deg, #CE8FE8 0%, #FA8C81 100%);
+$green-gradient-header: linear-gradient(-45deg, #0FA0E1 0%, #53E7B3 100%);
+$purple-gradient-header: linear-gradient(-224deg, #B97ADF 0%, #8278E1 100%);
+
+// buttons colors
+$btn-orange-gradient: linear-gradient(77deg, #f5286e, #fc6d43);
+$btn-orange-gradient-dark: linear-gradient(77deg, #e42667, #ee653c);
+
+$btn-green-gradient: linear-gradient(to left, #76e672, #41c83e);
