@@ -1,0 +1,29 @@
+.text-white {
+  color: #ffffff; }
+
+.text-black {
+  color: #1e1f22; }
+
+.bold-500 {
+  font-weight: 500; }
+
+.bold-600 {
+  font-weight: 600; }
+
+.bold-900 {
+  font-weight: 900; }
+
+.header {
+  padding: 10px 0; }
+  .header.purple {
+    background: linear-gradient(-224deg, #B97ADF 0%, #8278E1 100%); }
+  .header.blue {
+    background: linear-gradient(-225deg, #9BFAFC 0%, #175CAE 100%); }
+  .header.melon {
+    background: linear-gradient(-45deg, #CE8FE8 0%, #FA8C81 100%); }
+  .header.green {
+    background: linear-gradient(-45deg, #0FA0E1 0%, #53E7B3 100%); }
+  .header h2 {
+    font-size: 22px; }
+
+/*# sourceMappingURL=header.css.map */
