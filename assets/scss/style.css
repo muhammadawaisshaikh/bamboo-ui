@@ -13,6 +13,9 @@ ul {
   margin-bottom: 0;
   padding-left: 0; }
 
+.header {
+  background: linear-gradient(-224deg, #B97ADF 0%, #8278E1 100%); }
+
 ::-webkit-scrollbar {
   width: 8px; }
 
