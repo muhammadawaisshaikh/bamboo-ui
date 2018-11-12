@@ -4,19 +4,19 @@
 //header
 .header{
     padding: 10px 0;
-      &.purple{
+    &.purple{
         background: $purple-gradient-header;
-      }
-      &.blue{
-        background: $blue-gradient-header;
-      }
-      &.melon{
-        background: $melon-gradient-header;
-      }
-      &.green{
-        background: $green-gradient-header;
-      }
-      h2{
-        font-size: 22px;
-      }
     }
+    &.blue{
+        background: $blue-gradient-header;
+    }
+    &.melon{
+        background: $melon-gradient-header;
+    }
+    &.green{
+        background: $green-gradient-header;
+    }
+    h2{
+        font-size: 22px;
+    }
+}
