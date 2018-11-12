@@ -22,8 +22,23 @@ body{
 
   //header
   .header{
-      background: $purple-gradient-header;
-  }
+    padding: 10px 0;
+      &.purple{
+        background: $purple-gradient-header;
+      }
+      &.blue{
+        background: $blue-gradient-header;
+      }
+      &.melon{
+        background: $melon-gradient-header;
+      }
+      &.green{
+        background: $green-gradient-header;
+      }
+      h2{
+        font-size: 22px;
+      }
+    }
 
 
     

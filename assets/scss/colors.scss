@@ -14,3 +14,24 @@ $btn-orange-gradient: linear-gradient(77deg, #f5286e, #fc6d43);
 $btn-orange-gradient-dark: linear-gradient(77deg, #e42667, #ee653c);
 
 $btn-green-gradient: linear-gradient(to left, #76e672, #41c83e);
+
+// text colors
+.text-white{
+    color: $color-white;
+}
+
+.text-black{
+    color: $color-black;
+}
+
+//bold texts
+.bold-500{
+    font-weight: 500;
+}
+.bold-600{
+    font-weight: 600;
+}
+.bold-900{
+    font-weight: 900;
+}
+
